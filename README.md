@@ -2,10 +2,7 @@
 
 <div align="center">
 
-  <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>My Portfolio README </b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
